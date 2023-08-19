@@ -1,0 +1,14 @@
+D:\projelerim\C-sharp-practices\whileUygulama\whileUygulama\bin\Debug\net7.0\whileUygulama.exe
+D:\projelerim\C-sharp-practices\whileUygulama\whileUygulama\bin\Debug\net7.0\whileUygulama.deps.json
+D:\projelerim\C-sharp-practices\whileUygulama\whileUygulama\bin\Debug\net7.0\whileUygulama.runtimeconfig.json
+D:\projelerim\C-sharp-practices\whileUygulama\whileUygulama\bin\Debug\net7.0\whileUygulama.dll
+D:\projelerim\C-sharp-practices\whileUygulama\whileUygulama\bin\Debug\net7.0\whileUygulama.pdb
+D:\projelerim\C-sharp-practices\whileUygulama\whileUygulama\obj\Debug\net7.0\whileUygulama.GeneratedMSBuildEditorConfig.editorconfig
+D:\projelerim\C-sharp-practices\whileUygulama\whileUygulama\obj\Debug\net7.0\whileUygulama.AssemblyInfoInputs.cache
+D:\projelerim\C-sharp-practices\whileUygulama\whileUygulama\obj\Debug\net7.0\whileUygulama.AssemblyInfo.cs
+D:\projelerim\C-sharp-practices\whileUygulama\whileUygulama\obj\Debug\net7.0\whileUygulama.csproj.CoreCompileInputs.cache
+D:\projelerim\C-sharp-practices\whileUygulama\whileUygulama\obj\Debug\net7.0\whileUygulama.dll
+D:\projelerim\C-sharp-practices\whileUygulama\whileUygulama\obj\Debug\net7.0\refint\whileUygulama.dll
+D:\projelerim\C-sharp-practices\whileUygulama\whileUygulama\obj\Debug\net7.0\whileUygulama.pdb
+D:\projelerim\C-sharp-practices\whileUygulama\whileUygulama\obj\Debug\net7.0\whileUygulama.genruntimeconfig.cache
+D:\projelerim\C-sharp-practices\whileUygulama\whileUygulama\obj\Debug\net7.0\ref\whileUygulama.dll
