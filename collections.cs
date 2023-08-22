@@ -1,15 +1,14 @@
-﻿using System;
+
 using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
+
+
 
 namespace oopDersleri
 {
     class collections
     {
-        static void main(string[] args) {
+        static void Main(string[] args) {
 
             ArrayList list = new ArrayList();
             list.Add(10);
@@ -24,7 +23,25 @@ namespace oopDersleri
                 4.5,
                 null
             };
-            var sayi = Console.ReadLine();
+            int[] sayilar = {10,20,30};
+            
+            list.AddRange(sayilar);
+
+            var eleman = (int)list[0];
+            var isim = list[2].ToString();
+
+            list.Insert(1, "ela");
+            list.InsertRange(2, list2);
+
+            // remove
+            list.Remove(10);
+            list.RemoveAt(2);
+            list.RemoveRange(2, 3);
+
+            // contains, indexOf
+            Console.WriteLine(list.Contains(100));
+            Console.WriteLine(list.IndexOf(10));
+            
         }
     }
 }
